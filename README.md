@@ -43,3 +43,6 @@
 <br>
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamal-13-Sing&theme=github_dark"/>
 
+## 📈 Contribution Graph:
+[![Kamal-13-Sing github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kamal-13-Sing&theme=tokyo-night)](https://github.com/Kamal-13-Sing/github-readme-activity-graph)
+
