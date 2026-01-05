@@ -25,13 +25,8 @@ Building secure, scalable, and high-performance enterprise applications 🚀
 
 ---
 
-## 🌐 Connect With Me
-
-[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/sinjali051)
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/kamal-thapa-27b344237)
-[![Stack Overflow](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg)](https://stackoverflow.com/users/22822607)
-[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://www.facebook.com/kamal.sinjali.ma3ar)
-[![HackerRank](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)](https://www.hackerrank.com/@nakfarke6)
+## 🌐 Connect with me: 
+<p align="left"> <a href="https://twitter.com/sinjali051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sinjali051" height="30" width="40" /></a> <a href="https://linkedin.com/in/https://www.linkedin.com/in/kamal-thapa-27b344237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamal-thapa-27b344237" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/22822607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22822607" height="30" width="40" /></a> <a href="https://fb.com/https://www.facebook.com/kamal.sinjali.ma3ar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kamal.sinjali.ma3ar" height="30" width="40" /></a> <a href="https://www.hackerrank.com/@nakfarke6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@nakfarke6" height="30" width="40" /></a> </p>
 
 ---
 
