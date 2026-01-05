@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kamal Thapa
 
-### Senior Software Developer | Backend-Focused Full Stack Engineer  
+### Software Developer | Backend-Focused Full Stack Engineer  
 **Java • Spring Boot • React • Microservices**
 
 Building secure, scalable, and high-performance enterprise applications 🚀
@@ -18,7 +18,7 @@ Building secure, scalable, and high-performance enterprise applications 🚀
 - 👥 Team collaboration, mentoring, and code reviews
 - 🌱 Currently deepening knowledge in **system design & scalable architectures**
 - 💬 Ask me about **Java, Spring Boot, React, Microservices, Security**
-- 📫 Reach me at **donbimal383@gmail.com**
+- 📫 Reach me at **tmagarkamal7@gmail.com**
 - ⚡ Fun fact: I enjoy refactoring and optimizing code more than writing it 😄
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kamal-13-sing&label=Profile%20views&color=0e75b6&style=flat)
@@ -50,7 +50,7 @@ Building secure, scalable, and high-performance enterprise applications 🚀
 ### 🔹 DevOps & Tools
 - Docker, Linux
 - Git (GitHub / Bitbucket), Jira
-- Jenkins (CI/CD basics)
+- GitLab  CI/CD
 - Postman
 
 ### 🔹 Other
@@ -61,15 +61,19 @@ Building secure, scalable, and high-performance enterprise applications 🚀
 
 ## 🛠️ Technologies
 
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-![Spring](https://www.vectorlogo.zone/logos/springio/springio-icon.svg)
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
-![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)
-![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)
-![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
-![Kotlin](https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50" title="Java" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="50" title="Spring Boot" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="50" title="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" title="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="50" title="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="50" title="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="50" title="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50" title="Linux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="50" title="Kotlin" />
+</p>
+
+
 
 ---
 
