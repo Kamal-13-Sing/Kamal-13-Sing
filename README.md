@@ -23,6 +23,11 @@ Building secure, scalable, and high-performance enterprise applications 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kamal-13-sing&label=Profile%20views&color=0e75b6&style=flat)
 
+## 📄 Download My CV
+
+[📥 Download My CV](https://github.com/Kamal-13-Sing/kamal-thapa-cv/raw/main/Kamal_Thapa_CV.pdf)
+
+
 ---
 
 ## 🌐 Connect with me: 
