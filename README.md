@@ -25,7 +25,8 @@ Building secure, scalable, and high-performance enterprise applications 🚀
 
 ## 📄 Download My CV
 
-[📥 Download My CV](https://github.com/Kamal-13-Sing/kamal-thapa-cv/raw/main/Kamal_Thapa_CV.pdf)
+[📥 Download My CV](https://github.com/Kamal-13-Sing/kamal-thapa-cv/raw/main/kamal%20thapa%20software%20developer%20resume.pdf)
+
 
 
 ---
